@@ -1,8 +1,9 @@
-#Desenvolvedores
+👥
+Integrantes do Grupo
 
 
-Lucca Borges RM554608
+Ruan Melo, RM 557599
 
-Ruan Vieira RM557599
+Lucca Borges, RM554608
 
-Rodrigo Carnevale RM558148
+Rodrigo Jimenez, RM 558148
